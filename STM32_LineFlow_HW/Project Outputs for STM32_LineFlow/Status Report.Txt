@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [STM32_LineFlow.PrjPcb]
+   Generated File[STM32_LineFlow-RoundHoles.TXT]
+   Generated File[STM32_LineFlow-SlotHoles.TXT]
+   Generated File[STM32_LineFlow.LDP]
+   Generated File[STM32_LineFlow.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 16:29:12 On 29/12/2024

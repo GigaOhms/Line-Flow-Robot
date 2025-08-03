@@ -1,0 +1,12 @@
+Change Component Footprint: Designator=L1 Old Footprint=LED 7SEG 1DIG 0.28" New Footprint=LED 7S1D 0.28"
+Added Component: Designator=U3(DIP-8)
+Added Pin To Net: NetName=NetC15_2 Pin=U3-1
+Added Pin To Net: NetName=9V Pin=U3-2
+Added Pin To Net: NetName=9V Pin=U3-3
+Added Pin To Net: NetName=NetC15_1 Pin=U3-4
+Added Pin To Net: NetName=GND Pin=U3-5
+Added Pin To Net: NetName=MA2-PB3 Pin=U3-6
+Added Pin To Net: NetName=MA1-PA15 Pin=U3-7
+Added Pin To Net: NetName=GND Pin=U3-8
+Added Member To Class: ClassName=STM32_LineFlow Member=Component U3 L9110S
+Added Room: Name=STM32_LineFlow

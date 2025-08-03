@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=R15-1
+Removed Pin From Net: NetName=GND Pin=R16-1
+Removed Member From Class: ClassName=STM32_LineFlow Member=R15
+Removed Member From Class: ClassName=STM32_LineFlow Member=R16
+Added Room: Name=STM32_LineFlow

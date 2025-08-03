@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=SW1 Old Footprint=SW_MS22D18 SMD New Footprint=SK-22D07
+Change Component Comment : Designator=SW1 Old Comment=MSS-22D18 DIP New Comment=SK-22D07
+Change component parameters: Designator = "SW1" ("SW1"); Footprint = "SW_MS22D18 SMD"; UniqueID = "\PPIAGUPX" ("\PPIAGUPX")
+Added Room: Name=STM32_LineFlow

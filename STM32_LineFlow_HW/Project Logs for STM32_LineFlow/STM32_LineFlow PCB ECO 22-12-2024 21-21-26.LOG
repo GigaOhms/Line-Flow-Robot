@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=VBUS Pin=XH1-1
+Removed Pin From Net: NetName=GND Pin=XH1-2
+Added Pin To Net: NetName=GND Pin=XH1-1
+Added Pin To Net: NetName=VBUS Pin=XH1-2
+Added Room: Name=STM32_LineFlow

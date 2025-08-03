@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=9V Pin=SW1-1
+Removed Pin From Net: NetName=VBUS Pin=SW1-2
+Removed Pin From Net: NetName=VBUS Pin=SW1-5
+Removed Pin From Net: NetName=9V Pin=SW1-6
+Added Pin To Net: NetName=9V Pin=SW1-2
+Added Pin To Net: NetName=VBUS Pin=SW1-3
+Added Pin To Net: NetName=VBUS Pin=SW1-4
+Added Pin To Net: NetName=9V Pin=SW1-5
+Added Room: Name=STM32_LineFlow

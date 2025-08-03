@@ -1,0 +1,14 @@
+blinkled\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/stream_buffer.c
+blinkled\stream_buffer.o: C:\Users\GigaOhms\AppData\Local\Keil_v5\ARM\Arm_Compiler_5.06u7\Bin\..\include\stdint.h
+blinkled\stream_buffer.o: C:\Users\GigaOhms\AppData\Local\Keil_v5\ARM\Arm_Compiler_5.06u7\Bin\..\include\string.h
+blinkled\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+blinkled\stream_buffer.o: C:\Users\GigaOhms\AppData\Local\Keil_v5\ARM\Arm_Compiler_5.06u7\Bin\..\include\stddef.h
+blinkled\stream_buffer.o: ../Core/Inc/FreeRTOSConfig.h
+blinkled\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+blinkled\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+blinkled\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+blinkled\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+blinkled\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+blinkled\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+blinkled\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+blinkled\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/stream_buffer.h

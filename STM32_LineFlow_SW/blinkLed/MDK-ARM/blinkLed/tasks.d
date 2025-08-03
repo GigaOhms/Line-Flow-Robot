@@ -1,0 +1,16 @@
+blinkled\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/tasks.c
+blinkled\tasks.o: C:\Users\GigaOhms\AppData\Local\Keil_v5\ARM\Arm_Compiler_5.06u7\Bin\..\include\stdlib.h
+blinkled\tasks.o: C:\Users\GigaOhms\AppData\Local\Keil_v5\ARM\Arm_Compiler_5.06u7\Bin\..\include\string.h
+blinkled\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+blinkled\tasks.o: C:\Users\GigaOhms\AppData\Local\Keil_v5\ARM\Arm_Compiler_5.06u7\Bin\..\include\stddef.h
+blinkled\tasks.o: C:\Users\GigaOhms\AppData\Local\Keil_v5\ARM\Arm_Compiler_5.06u7\Bin\..\include\stdint.h
+blinkled\tasks.o: ../Core/Inc/FreeRTOSConfig.h
+blinkled\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+blinkled\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+blinkled\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+blinkled\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+blinkled\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+blinkled\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+blinkled\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+blinkled\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h
+blinkled\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/stack_macros.h

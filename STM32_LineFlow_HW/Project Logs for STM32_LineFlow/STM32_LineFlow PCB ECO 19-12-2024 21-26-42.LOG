@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=U3 Old Footprint=DIP-8 New Footprint=SOIC-8
+Change Component Footprint: Designator=U5 Old Footprint=DIP-8 New Footprint=SOIC-8
+Added Room: Name=STM32_LineFlow

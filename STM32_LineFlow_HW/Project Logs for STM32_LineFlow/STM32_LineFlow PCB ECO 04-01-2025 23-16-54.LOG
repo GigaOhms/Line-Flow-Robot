@@ -1,0 +1,7 @@
+Added Component: Designator=U4(MPU-6050)
+Added Pin To Net: NetName=3V3 Pin=U4-1
+Added Pin To Net: NetName=GND Pin=U4-2
+Added Pin To Net: NetName=SCL-PB8 Pin=U4-3
+Added Pin To Net: NetName=SDA-PB9 Pin=U4-4
+Added Member To Class: ClassName=STM32_LineFlow Member=Component U4 MPU6050
+Added Room: Name=STM32_LineFlow

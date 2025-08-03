@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=NetC15_1 Pin=M1-M A
+Removed Pin From Net: NetName=NetC15_2 Pin=M1-M B
+Removed Pin From Net: NetName=NetC19_1 Pin=M2-M A
+Removed Pin From Net: NetName=NetC19_2 Pin=M2-M B
+Added Pin To Net: NetName=NetC15_2 Pin=M1-M A
+Added Pin To Net: NetName=NetC15_1 Pin=M1-M B
+Added Pin To Net: NetName=NetC19_2 Pin=M2-M A
+Added Pin To Net: NetName=NetC19_1 Pin=M2-M B
+Added Room: Name=STM32_LineFlow

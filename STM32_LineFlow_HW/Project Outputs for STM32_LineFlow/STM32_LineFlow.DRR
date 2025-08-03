@@ -1,0 +1,27 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: STM32_LineFlow.PcbDoc   29/12/2024  16:29:12
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : STM32_LineFlow-RoundHoles.TXT
+ASCII SlotHoles File : STM32_LineFlow-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      15mil (0.381mm)                                           Round             230       PTH        36.73inch (932.94mm)
+T2      22mil (0.551mm)                                           Slot              4         PTH        1.52inch (38.68mm)
+T3      30mil (0.762mm)                                           Round             1         PTH        0.00inch (0.00mm)
+T4      32mil (0.8mm)                                             Round             16        PTH        3.86inch (98.14mm)
+T5      35mil (0.899mm)                                           Round             2         PTH        0.10inch (2.54mm)
+T6      36mil (0.914mm)                                           Round             4         PTH        0.30inch (7.62mm)
+T7      39mil (1.001mm)                                           Round             56        PTH        15.83inch (401.98mm)
+T8      39mil (1.001mm)                                           Slot              2         PTH        0.69inch (17.42mm)
+T9      47mil (1.199mm)                                           Round             4         PTH        0.73inch (18.54mm)
+T10     79mil (1.999mm)                                           Round             20        PTH        11.79inch (299.52mm)
+T11     118mil (3mm)                                              Round             1         PTH        0.00inch (0.00mm)
+T12     16mil (0.399mm)                                           Round             1         NPTH       0.00inch (0.00mm)
+T13     20mil (0.5mm)                                             Round             1         NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              342
+
+Total Processing Time (hh:mm:ss) : 00:00:00

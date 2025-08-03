@@ -1,0 +1,14 @@
+Added Component: Designator=VH1(VH-2)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIST#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "HHDR_2"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VBUS Pin=VH1-1
+Added Pin To Net: NetName=GND Pin=VH1-2
+Added Member To Class: ClassName=STM32_LineFlow Member=Component VH1 HHDR_2
+Added Room: Name=STM32_LineFlow

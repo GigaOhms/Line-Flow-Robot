@@ -1,0 +1,12 @@
+blinkled\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/port.c
+blinkled\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+blinkled\port.o: C:\Users\GigaOhms\AppData\Local\Keil_v5\ARM\Arm_Compiler_5.06u7\Bin\..\include\stddef.h
+blinkled\port.o: C:\Users\GigaOhms\AppData\Local\Keil_v5\ARM\Arm_Compiler_5.06u7\Bin\..\include\stdint.h
+blinkled\port.o: ../Core/Inc/FreeRTOSConfig.h
+blinkled\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+blinkled\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+blinkled\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+blinkled\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+blinkled\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+blinkled\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+blinkled\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h

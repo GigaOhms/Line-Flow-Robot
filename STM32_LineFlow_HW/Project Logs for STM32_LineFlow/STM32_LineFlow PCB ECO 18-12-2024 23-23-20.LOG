@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=M1 Old Footprint=Motor GA-12 Type2 New Footprint=Motor GA-12 Type3
+Added Room: Name=STM32_LineFlow

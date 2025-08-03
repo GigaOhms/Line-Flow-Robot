@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: D:\Work\mySelf\STM32_LineFlow\STM32_LineFlow.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=stm32_lineflow-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=stm32_lineflow-slotholes.txt|DrillLayers=gtl,gbl
