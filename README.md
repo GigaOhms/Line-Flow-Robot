@@ -9,16 +9,14 @@
 
 ## 🧠 Vi điều khiển (MCU)
 
-- **STM32F103C8T6**: ARM Cortex-M3 phổ biến
+- **STM32F103C8T6**: ARM Cortex-M3
 - Tốc độ xung nhịp: 72 MHz
-- Bộ nhớ Flash: 64 KB
-- SRAM: 20 KB
 
 ---
 
 ## 🔋 Cấp nguồn
 
-- Điện áp hoạt động: **5–9V**, từ pin Li-ion/LiPo hoặc nguồn ngoài.
+- Điện áp hoạt động: **5–9V**, từ pin Li-ion/LiPo hoặc usb type-C PD protocol.
 - Mạch cấp nguồn gồm:
   - **2 x AMS1117**: chuyển từ 5V hoặc 9V xuống 5V và 3.3V 
   - **CH224K (USB Type-C PD Sink)**: cấu hình lấy ra 9V từ cổng USB PD thông qua thiết lập cấu hình điện trở.
