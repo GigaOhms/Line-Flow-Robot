@@ -1,6 +1,6 @@
 # Line Flow Bot
 
-**Line Flow Bot** là một robot dò line mini được thiết kế để học tập và nghiên cứu về RTOS, PID, điều khiển nhúng, cảm biến, thuật toán. Dự án này được tham khảo và chỉnh sửa từ project gốc: [Mini Line Flow Robot – MQCR Excel](https://bitbucket.org/mqcrexcel/mini-line-flow-robot/).
+**Line Flow Bot** là một robot dò line mini được thiết kế để học tập và nghiên cứu về PCB design, các thuật toán điều khiển nhúng PID, RTOS. Dự án này được tham khảo và chỉnh sửa từ project: [Mini Line Flow Robot – MQCR Excel](https://bitbucket.org/mqcrexcel/mini-line-flow-robot/).
 
 ![](/.github/draw.png)
 ![](/.github/img.png)
